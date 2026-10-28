@@ -95,3 +95,6 @@ O `main.ts` executa consultas e cadastros, altera e remove um produto, adiciona 
 ## 9. GitHub
 
 Crie um repositório público com o nome `Miniprojeto_Ecommerce_NomeAluno_Turma`, substituindo os campos conforme solicitado no enunciado. Antes de publicar, preencha seu nome e turma neste README. Veja o arquivo `GUIA_PASSO_A_PASSO.md` para instruções detalhadas de Git, commits e envio do link no AVA.
+
+
+teste
